@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jonkka/static/css/main.89bdbc81.css",
+    "main.js": "/jonkka/static/js/main.4ed34d71.js",
+    "static/js/787.450e7eb8.chunk.js": "/jonkka/static/js/787.450e7eb8.chunk.js",
+    "static/media/jogga.mp4": "/jonkka/static/media/jogga.216b8e3e8170704dd241.mp4",
+    "index.html": "/jonkka/index.html",
+    "main.89bdbc81.css.map": "/jonkka/static/css/main.89bdbc81.css.map",
+    "main.4ed34d71.js.map": "/jonkka/static/js/main.4ed34d71.js.map",
+    "787.450e7eb8.chunk.js.map": "/jonkka/static/js/787.450e7eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89bdbc81.css",
+    "static/js/main.4ed34d71.js"
+  ]
+}
